@@ -17,7 +17,7 @@ require( __DIR__  .'/require/nav.php');
     <div class="container" >
       <div class="row">
         <div class="col-md-4">
-          <h2>Hôtels</h2>
+          <h2>Hôtels WILL's !</h2>
           <p>Chez Will's Hôtel Booking (WHB) on est pas des rigolos. Chez WHB les hôtels sentent le propre et ont des grandes salles de bains.</p>
           <p><a class="btn btn-default" href="./hotels.php" role="button">Liste des Hôtels »</a></p>
         </div>
